@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.p-class {
+    background-color: LightSalmon;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    }
+
+.p-class.big {
+    font-size: 24px;
+    }
+
+#div-id {
+    color: blue;
+    font-size: 36px;
+    }
+
+#fourth-id {
+    background-color: LightGreen;
+    font-size: 24px;
+    font-weight: bold;
+    }
